@@ -1,5 +1,9 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet
+http://usuarios.club/usuarios/src1/AnimalPlanet/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet (Opcion 2)
+http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/demoUwD/OV0.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="LOCALES",Imagen Televisión
 https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Canal Total
@@ -187,7 +191,87 @@ https://bgapp.live/play/bud-311.php?token=blacccckghost&c=5482-2098
 https://bgapp.live/play/bud-311.php?token=blacccckghost&c=2855-2310
 #EXTINF:-1 group-title="Lista 19", TNT P
 https://bgapp.live/play/bud-311.php?token=blacccckghost&c=2707-2310
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JU8/ba16e8a9dc.png" group-title="Deportes",Claro Sports
+http://usuarios.club/usuarios/src5/ClaroSports/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JU8/ba16e8a9dc.png" group-title="Deportes",Claro Sports (Opcion 2)
+http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JU8/ba16e8a9dc.png" group-title="Deportes",Claro Sports (720p)
+http://usuarios.club/usuarios/src2/CLARO_SPORTS_COL_HD/demoUwD/OV0/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JOO/262520c318.png" group-title="Noticias",CNN en Español
+http://usuarios.club/usuarios/src5/CNNenEspanol/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0QcL/bd8a53a641.png" group-title="Entretenimiento",Coraje el Perro Cobarde 24/7
+http://usuarios.club/usuarios/src3/CorajeCobarde/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVU/0c8e61f2a0.png" group-title="Deportes",DeporTV
+http://usuarios.club/usuarios/src4/DeporTV/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0K2y/50abce3179.png" group-title="Deportes",DirectTV Sports
+http://usuarios.club/usuarios/src5/DirectTVSports/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="Cultura",Discovery Channel
+http://usuarios.club/usuarios/src1/DiscoveryChannel/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="Cultura",Discovery Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="Cultura",Discovery H&H
+http://usuarios.club/usuarios/src1/DiscoveryHH/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="Cultura",Discovery H&H (Opcion 2)
+http://usuarios.club/usuarios/src2/DISCOVERY_HOME_HEALTH_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles",Disney XD
+http://usuarios.club/usuarios/src1/DisneyXD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles",Disney XD (Opcion 2)
+http://usuarios.club/usuarios/src2/DISNEY_XD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLha/55295e0162.PNG" group-title="Cultura",H2
+http://usuarios.club/usuarios/src5/H2/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLha/55295e0162.PNG" group-title="Cultura",H2 (Opcion 2)
+http://usuarios.club/usuarios/src2/H2/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="Cultura",History Channel
+http://usuarios.club/usuarios/src1/HistoryChannel/demoUwD/OV0.m3u8
 
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="Cultura",History Channel (Opcion 2)
+http://usuarios.club/usuarios/src2/HISTORY_CHANNEL_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msGV1/093178617f.png" group-title="Entretenimiento",Sony
+http://usuarios.club/usuarios/src1/SonyHD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/msGV1/093178617f.png" group-title="Entretenimiento",Sony (Opcion 2)
+http://usuarios.club/usuarios/src2/SONY_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0PI6/05b7191ea6.png" group-title="Musica",Telehit
+http://usuarios.club/usuarios/src1/Telehit/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKP8k/b5666df9d4.png" group-title="Peliculas",TNT (Opcion 2)
+http://usuarios.club/usuarios/src2/TNT_HD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/vKP8k/b5666df9d4.png" group-title="Peliculas",TNT (720p)
+http://usuarios.club/usuarios/src2/TNT_HD/demoUwD/OV0/hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/vKOIx/06a80881a6.png" group-title="Entretenimiento",TNT Series
+http://usuarios.club/usuarios/src1/TNTSeries/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/vKOIx/06a80881a6.png" group-title="Entretenimiento",TNT Series (Opcion 2)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/demoUwD/OV0.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png" group-title="Deportes",TNT Sports
+http://usuarios.club/usuarios/src5/TNTSports/demoUwD/OV0.m3u8
+#EXTINF:-1 group-title="Lista 22",  ANIMAL Planet
+http://bgapp.live/play/futvall-311.php?id=YW5pbWFscA==&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DISCOVERY Channel
+http://bgapp.live/play/futvall-311.php?id=ZGlzY292ZXJ5Y2g=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery SCIENCE
+http://bgapp.live/play/futvall-311.php?id=ZGNpZW5jaWE=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery CIVILIZATION
+http://bgapp.live/play/futvall-311.php?id=ZGNpdmls&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery THEATER
+http://bgapp.live/play/futvall-311.php?id=ZHRoZWF0ZXI=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery TURBO
+http://bgapp.live/play/futvall-311.php?id=ZHR1cmJv&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Discovery WORLD
+http://bgapp.live/play/futvall-311.php?id=ZHdvcmxk&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOOD Network
+http://bgapp.live/play/futvall-311.php?id=Zm9vZA==&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  EL GOURMET
+http://bgapp.live/play/futvall-311.php?id=Z291cm1ldA==&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  LIFE TIME
+http://bgapp.live/play/futvall-311.php?id=bGlmZXRpZW1wbw==&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  HISTORY Channel
+http://bgapp.live/play/futvall-311.php?id=aGlzdG9yeWhk&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Histrory 2
+http://bgapp.live/play/futvall-311.php?id=aDI=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Home &amp; Health
+http://bgapp.live/play/futvall-311.php?id=aGg=&token=blacccckghost&dos=kingof&f=.m3u8
 
 
 
