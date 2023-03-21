@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1,AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="AZTECA 7.png",AZTECA 7 [COLOR green]--ON LINE--[/COLOR]
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL 2 HD" tvg-logo="CANAL 2 HD.png",CANAL DE LAS ESTRELLAS [COLOR green]--ON LINE--[/COLOR]
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,AZTECA NOTICIAS HD
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="PROYECTO 40" tvg-logo="PROYECTO 40.png",PROYECTO 40 [COLOR green]--ON LINE--[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="FORO TV HD" tvg-logo="FORO TV HD.png",FORO TV [COLOR green]--ON LINE--[/COLOR]
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="gala-tv.gif" tvg-shift=0 group-title="Nacionales MX",Gala TV
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+#EXTINF:-1 tvg-id="UNO TV" tvg-logo="unotv.png", Latinos",UNO TV HD [COLOR green]--ON LINE--[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO", TV Mas | SD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,Vevo HITS
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="MTV.png",MTV [COLOR green]--ON LINE--[/COLOR]
+http://92.50.181.6/tv/1284/index.m3u8
+
+#EXTINF:-1 tvg-logo="MTV.png",MTV ROCK [COLOR green]--ON LINE--[/COLOR]
+http://92.50.181.6/tv/1279/index.m3u8
+
+#EXTINF:-1 tvg-logo="MTV.png",MTV DANCE [COLOR green]--ON LINE--[/COLOR]
+http://92.50.181.6/tv/1280/index.m3u8
+
+#EXTINF:-1,HIP HOP CHANNEL [COLOR green]--ON LINE--[/COLOR]
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="DISCOVERY CHANNEL.png",DISCOVERY EN ESPAÑOL [COLOR green]--ON LINE--[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
