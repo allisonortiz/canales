@@ -101,6 +101,92 @@ https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=731&f=.
 http://208.88.246.11:3473/push/forotv/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png"  group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT", Canal 5
 http://208.88.246.11:3473/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 tvg-id="XHDTVTDT.mx" group-title="LOCALES", Milenio Televisión 49.1
+https://v-sd.mybtv.net/live/521.m3u8
+#EXTINF:-1 tvg-id="XHUAATDT.mx" group-title="LOCALES", Las Estrellas 57.1 (-2h)
+https://v-sd.mybtv.net/live/530.m3u8
+#EXTINF:-1 tvg-id="XHUAATDT2.mx" group-title="LOCALES", Foro 57.2 (-2h)
+https://v-sd.mybtv.net/live/762.m3u8
+#EXTINF:-1 tvg-id="WFOXDT.us" group-title="USA LOCAL", FOX NY
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:-1 group-title="Lista 22",  TUDN MX
+http://bgapp.live/play/futvall-311.php?id=dGRuLW14&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT Sports
+http://bgapp.live/play/futvall-311.php?id=dG50&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  TNT Sports
+http://bgapp.live/play/futvall-311.php?id=dG50&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  CINEMAX
+http://bgapp.live/play/futvall-311.php?id=Y2luZW1heA==&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SPACE
+http://bgapp.live/play/futvall-311.php?id=c3BhY2U=&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ADRENALINA
+http://bgapp.live/play/futvall-311.php?id=YWRyZW5hbGluYQ==&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  AFIZZIONADOS
+http://bgapp.live/play/futvall-311.php?id=YWZpenppb25hZG9z&token=blacccckghost&f=.m3u
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 1 MX
+http://bgapp.live/play/futvall-311.php?id=Zm94c3BvcnRzMS1teA==&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 2 MX
+http://bgapp.live/play/futvall-311.php?id=Zm94c3BvcnRzMi1teA==&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX SPORTS 3 MX
+http://bgapp.live/play/futvall-311.php?id=Zm94c3BvcnRzMy1teA==&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  SKY PREMIER LEAGUE
+http://bgapp.live/play/futvall-311.php?id=c2t5c3BvcnRzcGw=&token=blacccckghost&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ONCE TV HD
+http://bgapp.live/play/futvall-311.php?id=b25jZXR2aGQ=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DISTRITO COMEDIA
+http://bgapp.live/play/futvall-311.php?id=ZGlzdHJpdG9jb21lZHk=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FOX Channel
+http://bgapp.live/play/futvall-311.php?id=c3RhcmNo&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  FX
+http://bgapp.live/play/futvall-311.php?id=Zng=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  MORBIDO
+http://bgapp.live/play/futvall-311.php?id=bW9yYnVpZG8=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  PARAMOUNT Channel
+http://bgapp.live/play/futvall-311.php?id=cGFyYW1vdW50Y2g=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  ANIMAL Planet
+http://bgapp.live/play/futvall-311.php?id=YW5pbWFscA==&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  DISCOVERY Channel
+http://bgapp.live/play/futvall-311.php?id=ZGlzY292ZXJ5Y2g=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  NATGEO
+http://bgapp.live/play/futvall-311.php?id=bmF0Z2Vv&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  HISTORY Channel
+http://bgapp.live/play/futvall-311.php?id=aGlzdG9yeWhk&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Histrory 2
+http://bgapp.live/play/futvall-311.php?id=aDI=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 group-title="Lista 22",  Home &amp; Health
+http://bgapp.live/play/futvall-311.php?id=aGg=&token=blacccckghost&dos=kingof&f=.m3u8
+#EXTINF:-1 tvg-id="HBOHD" group-title="Claro-COL", HBO HD
+http://190.131.228.59:8000/play/a0rp/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus" group-title="Claro-COL", HBO Plus
+http://190.131.228.59:8000/play/a05f/index.m3u
+#EXTINF:-1 tvg-id="NatGeo" group-title="Claro-COL", Nat Geo
+http://190.131.228.59:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="NATGEO" group-title="Claro-COL", Nat Geo HD
+http://190.131.228.59:8000/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="NickJr" group-title="Claro-COL", Nick Jr
+http://190.131.228.59:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="Lista 19", CARTOON NETWORK HD I
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=4679-2096
+#EXTINF:-1 group-title="Lista 19", CARTOON NETWORK HD
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=5314-2096
+#EXTINF:-1 group-title="Lista 19", DISNEY CHANNEL HD
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=4684-2096
+#EXTINF:-1 group-title="Lista 19", ANIMAL PLANET HD
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=5323-2098
+#EXTINF:-1 group-title="Lista 19", DISCOVERY CHANNEL HD
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=2318-2098
+#EXTINF:-1 group-title="Lista 19", HISTORY HD I
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=1288-2098
+#EXTINF:-1 group-title="Lista 19", NATGEO HD I
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=5445-2098
+#EXTINF:-1 group-title="Lista 19", NATGEO HD I.
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=2034-2098
+#EXTINF:-1 group-title="Lista 19", NATGEO WILD ES P
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=5482-2098
+#EXTINF:-1 group-title="Lista 19", TNT I
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=2855-2310
+#EXTINF:-1 group-title="Lista 19", TNT P
+https://bgapp.live/play/bud-311.php?token=blacccckghost&c=2707-2310
 
 
 
