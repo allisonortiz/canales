@@ -4,6 +4,7 @@
 http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/demoUwD/OV0.m3u8
 #EXTINF:-1,LA: Discovery Home&Health 
 http://185.71.66.13:8080/zyTYRQufUL/YBZgSIUHnS/43814
+#EXTINF:-1 channelId=\"2620\" , H&H DISCOVERYhttp://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?=%2F.ts
 #EXTINF:-1 channelId=\"59\" , ID INVESTIGATION DISCOVERYhttp://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?=%2F.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Canal Total
 https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo02.php?tokennn=Regio&c=1973&f=.m3u8
